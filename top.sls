@@ -1,4 +1,4 @@
-other:
+base:
   "*":
     - file
 other_env:
