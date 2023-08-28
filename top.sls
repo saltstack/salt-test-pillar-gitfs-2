@@ -1,4 +1,4 @@
-base:
+{{ saltenv }}:
   "*":
     - file
 other_env:
